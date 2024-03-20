@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practising the GitHub Flow
+I am milton. I am a GIS nerd and I also love Mathmatics.
